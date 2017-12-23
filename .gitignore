@@ -3,3 +3,4 @@ vendor/*
 public/*
 resource/*
 storage/*
+.env
